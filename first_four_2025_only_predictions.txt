@@ -5,8 +5,8 @@
 
 SOUTH REGION - #11 SEED PLAY-IN GAMES:
 --------------------------------------------------------------------------------
-Matchup: San Diego State vs North Carolina
-Predicted Winner: NORTH CAROLINA with 88.6% confidence
+Matchup: North Carolina vs San Diego State
+Predicted Winner: NORTH CAROLINA with 91.8% confidence
 Confidence: VERY HIGH - Strong statistical advantage detected
 
 Statistical Analysis (2025 Data Only):
@@ -16,9 +16,9 @@ Statistical Analysis (2025 Data Only):
 • North Carolina has better Pace of Play than San Diego State by 4.60 points
 
 ----------------------------------------
-Matchup: Texas vs Xavier
-Predicted Winner: TEXAS with 79.0% confidence
-Confidence: HIGH - Clear statistical advantage
+Matchup: Xavier vs Texas
+Predicted Winner: XAVIER with 53.5% confidence
+Confidence: TOSS-UP - Teams are very evenly matched
 
 Statistical Analysis (2025 Data Only):
 • Texas has better Offensive Efficiency than Xavier by 1.21 points
@@ -27,20 +27,20 @@ Statistical Analysis (2025 Data Only):
 
 SOUTH REGION - #16 SEED PLAY-IN GAMES:
 --------------------------------------------------------------------------------
-Matchup: Alabama State vs Saint Francis
-Predicted Winner: ALABAMA STATE with 98.1% confidence
+Matchup: St. Francis (PA) vs Alabama State
+Predicted Winner: ALABAMA STATE with 97.1% confidence
 Confidence: VERY HIGH - Strong statistical advantage detected
 
 Statistical Analysis (2025 Data Only):
-• Alabama State has better Adjusted Efficiency Margin than Saint Francis by 3.52 points
-• Alabama State has better Offensive Efficiency than Saint Francis by 1.73 points
-• Saint Francis has better Defensive Efficiency than Alabama State by 1.79 points
-• Alabama State has better Pace of Play than Saint Francis by 2.41 points
+• Alabama State has better Adjusted Efficiency Margin than St. Francis (PA) by 3.52 points
+• Alabama State has better Offensive Efficiency than St. Francis (PA) by 1.73 points
+• St. Francis (PA) has better Defensive Efficiency than Alabama State by 1.79 points
+• Alabama State has better Pace of Play than St. Francis (PA) by 2.41 points
 
 ----------------------------------------
-Matchup: American vs Mount St. Mary's
-Predicted Winner: AMERICAN with 76.2% confidence
-Confidence: HIGH - Clear statistical advantage
+Matchup: Mount St. Mary's vs American
+Predicted Winner: AMERICAN with 82.3% confidence
+Confidence: VERY HIGH - Strong statistical advantage detected
 
 Statistical Analysis (2025 Data Only):
 • American has better Adjusted Efficiency Margin than Mount St. Mary's by 0.69 points

@@ -5,19 +5,19 @@
 
 EAST REGION - #16 SEED PLAY-IN GAMES:
 ------------------------------------------------------------------------------------------
-Matchup: American vs Mount St. Mary's
-Predicted Winner: AMERICAN with 68.0% confidence (100% model consensus)
+Matchup: Mount St. Mary's vs American
+Predicted Winner: AMERICAN with 69.7% confidence (75% model consensus)
 Confidence: MEDIUM - Moderate advantage detected
 
 Individual Model Predictions:
-• Comprehensive: American (68.0%) ✓
-• Current_Only: American (77.3%) ✓
-• Extended: American (78.5%) ✓
-• Recent: American (58.2%) ✓
+• Comprehensive: Mount St. Mary's (53.6%) ✗
+• Current_Only: American (66.9%) ✓
+• Extended: American (64.8%) ✓
+• Recent: American (78.6%) ✓
 
 Recent Trends:
-• American: Strong upward trend
 • Mount St. Mary's: Strong upward trend
+• American: Strong upward trend
 
 Statistical Analysis:
 • American has better Adjusted Efficiency Margin than Mount St. Mary's by 0.69 points
@@ -29,19 +29,19 @@ First Round Impact:
 
 MIDWEST REGION - #11 SEED PLAY-IN GAMES:
 ------------------------------------------------------------------------------------------
-Matchup: Texas vs Xavier
-Predicted Winner: TEXAS with 59.8% confidence (75% model consensus)
+Matchup: Xavier vs Texas
+Predicted Winner: XAVIER with 55.8% confidence (75% model consensus)
 Confidence: LOW - Slight edge detected
 
 Individual Model Predictions:
-• Comprehensive: Texas (63.8%) ✓
-• Current_Only: Texas (53.3%) ✓
-• Extended: Xavier (50.3%) ✗
-• Recent: Texas (67.1%) ✓
+• Comprehensive: Xavier (56.0%) ✓
+• Current_Only: Texas (62.7%) ✗
+• Extended: Xavier (75.4%) ✓
+• Recent: Xavier (57.4%) ✓
 
 Recent Trends:
-• Texas: Notable decline
 • Xavier: Notable decline
+• Texas: Notable decline
 
 Statistical Analysis:
 • Texas has better Offensive Efficiency than Xavier by 1.21 points
@@ -52,19 +52,19 @@ First Round Impact:
 
 SOUTH REGION - #11 SEED PLAY-IN GAMES:
 ------------------------------------------------------------------------------------------
-Matchup: San Diego State vs North Carolina
-Predicted Winner: NORTH CAROLINA with 84.8% confidence (100% model consensus)
+Matchup: North Carolina vs San Diego State
+Predicted Winner: NORTH CAROLINA with 74.3% confidence (100% model consensus)
 Confidence: HIGH - Clear statistical advantage
 
 Individual Model Predictions:
-• Comprehensive: North Carolina (87.4%) ✓
-• Current_Only: North Carolina (81.6%) ✓
-• Extended: North Carolina (82.1%) ✓
-• Recent: North Carolina (87.3%) ✓
+• Comprehensive: North Carolina (86.0%) ✓
+• Current_Only: North Carolina (84.0%) ✓
+• Extended: North Carolina (75.9%) ✓
+• Recent: North Carolina (65.5%) ✓
 
 Recent Trends:
-• San Diego State: Notable decline
 • North Carolina: Slight improvement
+• San Diego State: Notable decline
 
 Statistical Analysis:
 • North Carolina has better Adjusted Efficiency Margin than San Diego State by 3.28 points
@@ -76,25 +76,25 @@ First Round Impact:
 
 SOUTH REGION - #16 SEED PLAY-IN GAMES:
 ------------------------------------------------------------------------------------------
-Matchup: Alabama State vs Saint Francis
-Predicted Winner: ALABAMA STATE with 72.8% confidence (100% model consensus)
+Matchup: St. Francis (PA) vs Alabama State
+Predicted Winner: ALABAMA STATE with 98.2% confidence (100% model consensus)
 Confidence: HIGH - Clear statistical advantage
 
 Individual Model Predictions:
-• Comprehensive: Alabama State (70.8%) ✓
-• Current_Only: Alabama State (100.0%) ✓
-• Extended: Alabama State (66.9%) ✓
-• Recent: Alabama State (60.7%) ✓
+• Comprehensive: Alabama State (98.1%) ✓
+• Current_Only: Alabama State (97.9%) ✓
+• Extended: Alabama State (94.7%) ✓
+• Recent: Alabama State (100.0%) ✓
 
 Recent Trends:
+• St. Francis (PA): Strong upward trend
 • Alabama State: Relatively stable
-• Saint Francis: Strong upward trend
 
 Statistical Analysis:
-• Alabama State has better Adjusted Efficiency Margin than Saint Francis by 3.52 points
-• Alabama State has better Offensive Efficiency than Saint Francis by 1.73 points
-• Saint Francis has better Defensive Efficiency than Alabama State by 1.79 points
-• Alabama State has better Pace of Play than Saint Francis by 2.41 points
+• Alabama State has better Adjusted Efficiency Margin than St. Francis (PA) by 3.52 points
+• Alabama State has better Offensive Efficiency than St. Francis (PA) by 1.73 points
+• St. Francis (PA) has better Defensive Efficiency than Alabama State by 1.79 points
+• Alabama State has better Pace of Play than St. Francis (PA) by 2.41 points
 
 First Round Impact:
 

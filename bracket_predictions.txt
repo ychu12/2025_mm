@@ -1,5 +1,3 @@
-2021-2025 data:
-
 First Four:
 #16 St. Francis (PA) vs #16 Alabama State: Alabama State
 #11 North Carolina vs #11 San Diego State: North Carolina
@@ -32,9 +30,9 @@ First Round:
 #7 Marquette vs #10 New Mexico: Marquette
 #8 Louisville vs #9 Creighton: Louisville
 #1 Florida vs #16 Omaha: Florida
-#2 St. John's vs #15 UC San Diego: St. John's
-#3 Texas Tech vs #14 UNC Wilmington: Texas Tech
-#4 Maryland vs #13 Grand Canyon: Maryland
+#2 St. John's vs #15 Eastern Washington: St. John's
+#3 Texas Tech vs #14 Colgate: Texas Tech
+#4 Maryland vs #13 Hawaii: Maryland
 #5 Memphis vs #12 Colorado State: Memphis
 #6 Missouri vs #11 Drake: Missouri
 #7 Kansas vs #10 Arkansas: Kansas
@@ -46,13 +44,13 @@ Second Round:
 #6 BYU vs #3 Wisconsin: Wisconsin
 #7 Saint Mary's vs #2 Alabama: Alabama
 #1 Houston vs #8 Gonzaga: Houston
-#5 Clemson vs #4 Purdue: Clemson
-#6 Illinois vs #3 Kentucky: Kentucky
+#5 Clemson vs #4 Purdue: Purdue
+#6 Illinois vs #3 Kentucky: Illinois
 #7 UCLA vs #2 Tennessee: Tennessee
 #1 Auburn vs #8 Louisville: Auburn
 #5 Michigan vs #4 Texas A&M: Texas A&M
 #11 North Carolina/San Diego State vs #3 Iowa State: North Carolina/San Diego State
-#7 Marquette vs #2 Michigan State: Marquette
+#7 Marquette vs #2 Michigan State: Michigan State
 #1 Florida vs #8 UConn: Florida
 #5 Memphis vs #4 Maryland: Maryland
 #6 Missouri vs #3 Texas Tech: Texas Tech
@@ -61,18 +59,18 @@ Second Round:
 Sweet 16:
 #1 Duke vs #4 Arizona: Duke
 #3 Wisconsin vs #2 Alabama: Alabama
-#1 Houston vs #5 Clemson: Houston
-#3 Kentucky vs #2 Tennessee: Tennessee
+#1 Houston vs #4 Purdue: Houston
+#6 Illinois vs #2 Tennessee: Tennessee
 #1 Auburn vs #4 Texas A&M: Auburn
-#11 North Carolina/San Diego State vs #7 Marquette: North Carolina/San Diego State
+#11 North Carolina/San Diego State vs #2 Michigan State: Michigan State
 #1 Florida vs #4 Maryland: Florida
-#3 Texas Tech vs #2 St. John's: St. John's
+#3 Texas Tech vs #2 St. John's: Texas Tech
 
 Elite 8:
 #1 Duke vs #2 Alabama: Duke
 #1 Houston vs #2 Tennessee: Houston
-#1 Auburn vs #11 North Carolina/San Diego State: Auburn
-#1 Florida vs #2 St. John's: Florida
+#1 Auburn vs #2 Michigan State: Auburn
+#1 Florida vs #3 Texas Tech: Florida
 
 Final Four:
 #1 Auburn vs #1 Duke: Duke

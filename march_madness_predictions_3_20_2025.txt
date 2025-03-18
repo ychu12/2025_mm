@@ -5,7 +5,7 @@
 EAST REGION:
 --------------------------------------------------------------------------------
 Matchup: #2 Alabama vs #15 Robert Morris
-Predicted Winner: ALABAMA with 100.0% confidence
+Predicted Winner: ALABAMA with 99.9% confidence
 Model Agreement: Models agree
 Confidence: VERY HIGH - Strong statistical advantage detected
 
@@ -39,7 +39,7 @@ Statistical Analysis (Current Season):
 ----------------------------------------
 
 Matchup: #4 Arizona vs #13 Akron
-Predicted Winner: ARIZONA with 99.8% confidence
+Predicted Winner: ARIZONA with 100.0% confidence
 Model Agreement: Models agree
 Confidence: VERY HIGH - Strong statistical advantage detected
 
@@ -56,7 +56,7 @@ Statistical Analysis (Current Season):
 ----------------------------------------
 
 Matchup: #5 Oregon vs #12 Liberty
-Predicted Winner: OREGON with 99.1% confidence
+Predicted Winner: OREGON with 97.3% confidence
 Model Agreement: Models agree
 Confidence: VERY HIGH - Strong statistical advantage detected
 
@@ -73,9 +73,9 @@ Statistical Analysis (Current Season):
 ----------------------------------------
 
 Matchup: #6 BYU vs #11 VCU
-Predicted Winner: BYU with 79.3% confidence
-Model Agreement: Models agree
-Confidence: HIGH - Clear statistical advantage
+Predicted Winner: BYU with 57.7% confidence
+Model Agreement: Historical model preferred (higher confidence)
+Confidence: LOW - Slight edge detected
 
 Recent Trends:
 • BYU: Strong upward trend
@@ -107,9 +107,9 @@ Statistical Analysis (Current Season):
 ----------------------------------------
 
 Matchup: #8 Mississippi State vs #9 Baylor
-Predicted Winner: MISSISSIPPI STATE with 77.6% confidence
+Predicted Winner: MISSISSIPPI STATE with 61.4% confidence
 Model Agreement: Models agree
-Confidence: HIGH - Clear statistical advantage
+Confidence: MEDIUM - Moderate advantage detected
 
 Recent Trends:
 • Mississippi State: Strong upward trend
@@ -127,7 +127,7 @@ Statistical Analysis (Current Season):
 SOUTH REGION:
 --------------------------------------------------------------------------------
 Matchup: #2 Michigan State vs #15 Wofford
-Predicted Winner: MICHIGAN STATE with 99.5% confidence
+Predicted Winner: MICHIGAN STATE with 99.9% confidence
 Model Agreement: Models agree
 Confidence: VERY HIGH - Strong statistical advantage detected
 
@@ -144,7 +144,7 @@ Statistical Analysis (Current Season):
 ----------------------------------------
 
 Matchup: #3 Iowa State vs #14 Troy
-Predicted Winner: IOWA STATE with 99.4% confidence
+Predicted Winner: IOWA STATE with 99.3% confidence
 Model Agreement: Models agree
 Confidence: VERY HIGH - Strong statistical advantage detected
 
@@ -161,7 +161,7 @@ Statistical Analysis (Current Season):
 ----------------------------------------
 
 Matchup: #4 Texas A&M vs #13 Yale
-Predicted Winner: TEXAS A&M with 99.6% confidence
+Predicted Winner: TEXAS A&M with 100.0% confidence
 Model Agreement: Models agree
 Confidence: VERY HIGH - Strong statistical advantage detected
 
@@ -178,9 +178,9 @@ Statistical Analysis (Current Season):
 ----------------------------------------
 
 Matchup: #5 Michigan vs #12 UC San Diego
-Predicted Winner: MICHIGAN with 80.1% confidence
+Predicted Winner: MICHIGAN with 72.4% confidence
 Model Agreement: Models agree
-Confidence: VERY HIGH - Strong statistical advantage detected
+Confidence: HIGH - Clear statistical advantage
 
 Recent Trends:
 • Michigan: Slight improvement
@@ -195,9 +195,9 @@ Statistical Analysis (Current Season):
 ----------------------------------------
 
 Matchup: #7 Marquette vs #10 New Mexico
-Predicted Winner: MARQUETTE with 72.4% confidence
+Predicted Winner: MARQUETTE with 68.8% confidence
 Model Agreement: Models agree
-Confidence: HIGH - Clear statistical advantage
+Confidence: MEDIUM - Moderate advantage detected
 
 Recent Trends:
 • Marquette: Strong upward trend
@@ -212,9 +212,9 @@ Statistical Analysis (Current Season):
 ----------------------------------------
 
 Matchup: #8 Louisville vs #9 Creighton
-Predicted Winner: LOUISVILLE with 90.1% confidence
+Predicted Winner: LOUISVILLE with 77.4% confidence
 Model Agreement: Models agree
-Confidence: VERY HIGH - Strong statistical advantage detected
+Confidence: HIGH - Clear statistical advantage
 
 Recent Trends:
 • Louisville: Strong upward trend

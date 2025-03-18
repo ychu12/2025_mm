@@ -5,9 +5,9 @@
 
 SOUTH REGION - #11 SEED PLAY-IN GAMES:
 ------------------------------------------------------------------------------------------
-Matchup: San Diego State vs North Carolina
-Predicted Winner: NORTH CAROLINA with 80.6% confidence
-Confidence: HIGH - Clear statistical advantage
+Matchup: North Carolina vs San Diego State
+Predicted Winner: NORTH CAROLINA with 86.1% confidence
+Confidence: VERY HIGH - Strong statistical advantage detected
 
 Key statistical advantages:
 • North Carolina has better Adjusted Efficiency Margin than San Diego State by 3.28 points
@@ -19,9 +19,9 @@ Historical Context: #11 seeds have made surprising tournament runs in recent yea
                    (UCLA Final Four 2021, Loyola Chicago Final Four 2018)
 
 --------------------------------------------------
-Matchup: Texas vs Xavier
-Predicted Winner: XAVIER with 67.8% confidence
-Confidence: MEDIUM - Moderate advantage detected
+Matchup: Xavier vs Texas
+Predicted Winner: TEXAS with 50.0% confidence
+Confidence: TOSS-UP - Teams are very evenly matched
 
 Key statistical advantages:
 • Texas has better Offensive Efficiency than Xavier by 1.21 points
@@ -33,23 +33,23 @@ Historical Context: #11 seeds have made surprising tournament runs in recent yea
 
 SOUTH REGION - #16 SEED PLAY-IN GAMES:
 ------------------------------------------------------------------------------------------
-Matchup: Alabama State vs Saint Francis
+Matchup: St. Francis (PA) vs Alabama State
 Predicted Winner: ALABAMA STATE with 99.8% confidence
 Confidence: VERY HIGH - Strong statistical advantage detected
 
 Key statistical advantages:
-• Alabama State has better Adjusted Efficiency Margin than Saint Francis by 47.12 points
-• Alabama State has better Offensive Efficiency than Saint Francis by 24.82 points
-• Saint Francis has better Defensive Efficiency than Alabama State by 22.30 points
-• Alabama State has better Pace of Play than Saint Francis by 6.32 points
+• Alabama State has better Adjusted Efficiency Margin than St. Francis (PA) by 42.69 points
+• Alabama State has better Offensive Efficiency than St. Francis (PA) by 26.84 points
+• St. Francis (PA) has better Defensive Efficiency than Alabama State by 15.86 points
+• Alabama State has better Pace of Play than St. Francis (PA) by 9.60 points
 
 Historical Context: Only one #16 seed has ever defeated a #1 seed in tournament history
                    (UMBC over Virginia in 2018)
 
 --------------------------------------------------
-Matchup: American vs Mount St. Mary's
-Predicted Winner: AMERICAN with 67.2% confidence
-Confidence: MEDIUM - Moderate advantage detected
+Matchup: Mount St. Mary's vs American
+Predicted Winner: AMERICAN with 74.2% confidence
+Confidence: HIGH - Clear statistical advantage
 
 Key statistical advantages:
 • American has better Adjusted Efficiency Margin than Mount St. Mary's by 0.69 points

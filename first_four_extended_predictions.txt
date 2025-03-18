@@ -4,22 +4,22 @@
 ================================================================================
 
 SOUTH REGION - #11 SEED PLAY-IN GAME:
-  Matchup: First Four: San Diego State vs North Carolina
-  Predicted Winner: NORTH CAROLINA with 99.6% confidence
-  HIGH CONFIDENCE: Strong statistical advantage detected
+  Matchup: North Carolina vs San Diego State
+  Predicted Winner: NORTH CAROLINA with 74.3% confidence
+  MEDIUM CONFIDENCE: Clear but not overwhelming advantage
   Historical Context: #11 seeds occasionally make surprise Sweet 16 runs
-  Matchup: First Four: Texas vs Xavier
-  Predicted Winner: XAVIER with 65.5% confidence
+  Matchup: Xavier vs Texas
+  Predicted Winner: XAVIER with 66.2% confidence
   MEDIUM CONFIDENCE: Clear but not overwhelming advantage
   Historical Context: #11 seeds occasionally make surprise Sweet 16 runs
 
 SOUTH REGION - #16 SEED PLAY-IN GAME:
-  Matchup: First Four: Alabama State vs Saint Francis
-  Predicted Winner: FIRST FOUR: ALABAMA STATE with 100.0% confidence
+  Matchup: St. Francis (PA) vs Alabama State
+  Predicted Winner: ALABAMA STATE with 99.8% confidence
   HIGH CONFIDENCE: Strong statistical advantage detected
   Historical Context: #16 seeds face extremely difficult paths in the tournament
-  Matchup: First Four: American vs Mount St. Mary's
-  Predicted Winner: FIRST FOUR: AMERICAN with 66.2% confidence
+  Matchup: Mount St. Mary's vs American
+  Predicted Winner: AMERICAN with 73.3% confidence
   MEDIUM CONFIDENCE: Clear but not overwhelming advantage
   Historical Context: #16 seeds face extremely difficult paths in the tournament
 

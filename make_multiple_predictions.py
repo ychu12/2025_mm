@@ -8,49 +8,39 @@ import os
 from BasketballUtils import manual_merge_basketball_data, create_matchup_features, simulate_bracket
 
 def load_revised_matchups(file_path):
-    """Load matchups from the revised CSV format"""
+    """Load matchups from the matchups.csv format"""
     print(f"Loading matchups from {file_path}...")
     matchups_df = pd.read_csv(file_path)
     
-    # Handle TBD teams - replace with placeholder names
-    matchups_df['Team1'] = matchups_df['Team1'].apply(lambda x: f"Team{np.random.randint(1000)}" if x == "TBD" else x)
-    matchups_df['Team2'] = matchups_df['Team2'].apply(lambda x: f"Team{np.random.randint(1000)}" if x == "TBD" else x)
-    
     # Handle First Four winners
     first_four_winners = {}
-    first_four_rows = matchups_df[matchups_df['Round'] == 'First Four']
+    first_four_rows = matchups_df[matchups_df['Region'] == 'First Four']
     
     for _, row in first_four_rows.iterrows():
         region = row['Region']
-        team1, team2 = row['Team1'], row['Team2']
+        seed = row['Seed']
+        team = row['Team']
+        opponent = row['Opponent']
         # Randomly pick a winner for First Four games (50/50 chance)
-        winner = team1 if np.random.random() < 0.5 else team2
-        first_four_winners[f"{region}_First_Four_{row['Seed1']}"] = winner
+        winner = team if np.random.random() < 0.5 else opponent
+        first_four_winners[f"{seed} {team}/{opponent}"] = winner
     
     # Create dictionary of matchups by region
-    regions = matchups_df['Region'].unique()
+    regions = [r for r in matchups_df['Region'].unique() if r != 'First Four']
     matchups_by_region = {}
     
     for region in regions:
-        region_df = matchups_df[(matchups_df['Region'] == region) & (matchups_df['Round'] == 'First Round')]
+        region_df = matchups_df[matchups_df['Region'] == region]
         region_matchups = []
         
         for _, row in region_df.iterrows():
-            team1 = row['Team1']
-            team2 = row['Team2']
+            team1 = row['Team']
+            team2 = row['Opponent']
             
             # Replace First Four Winner placeholders
-            if isinstance(team1, str) and "First Four Winner" in team1:
-                parts = team1.split("(")[1].split(")")[0].split("/")
-                key = f"{region}_First_Four_{row['Seed1']}"
-                if key in first_four_winners:
-                    team1 = first_four_winners[key]
-            
-            if isinstance(team2, str) and "First Four Winner" in team2:
-                parts = team2.split("(")[1].split(")")[0].split("/")
-                key = f"{region}_First_Four_{row['Seed2']}"
-                if key in first_four_winners:
-                    team2 = first_four_winners[key]
+            if isinstance(team2, str) and "/" in team2:
+                if team2 in first_four_winners:
+                    team2 = first_four_winners[team2]
             
             region_matchups.append((team1, team2))
         
@@ -59,8 +49,9 @@ def load_revised_matchups(file_path):
     # Create dictionary of team seeds
     team_seeds = {}
     for _, row in matchups_df.iterrows():
-        team_seeds[row['Team1']] = row['Seed1']
-        team_seeds[row['Team2']] = row['Seed2']
+        team_seeds[row['Team']] = row['Seed']
+        if '/' not in str(row['Opponent']):  # Skip First Four matchups
+            team_seeds[row['Opponent']] = row['Opponent Seed']
     
     # Create dictionary of regions
     team_regions = {}
@@ -69,24 +60,16 @@ def load_revised_matchups(file_path):
         teams = []
         
         for _, row in region_df.iterrows():
-            # Only include teams from First Round
-            if row['Round'] == 'First Round':
-                team1 = row['Team1']
-                team2 = row['Team2']
-                
-                # Replace First Four Winner placeholders
-                if isinstance(team1, str) and "First Four Winner" in team1:
-                    key = f"{region}_First_Four_{row['Seed1']}"
-                    if key in first_four_winners:
-                        team1 = first_four_winners[key]
-                
-                if isinstance(team2, str) and "First Four Winner" in team2:
-                    key = f"{region}_First_Four_{row['Seed2']}"
-                    if key in first_four_winners:
-                        team2 = first_four_winners[key]
-                
-                teams.append(team1)
-                teams.append(team2)
+            team1 = row['Team']
+            team2 = row['Opponent']
+            
+            # Replace First Four Winner placeholders
+            if isinstance(team2, str) and "/" in team2:
+                if team2 in first_four_winners:
+                    team2 = first_four_winners[team2]
+            
+            teams.append(team1)
+            teams.append(team2)
         
         team_regions[region] = teams
     
