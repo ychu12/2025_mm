@@ -2,7 +2,7 @@ First Four:
 #16 St. Francis (PA) vs #16 Alabama State: Alabama State
 #11 North Carolina vs #11 San Diego State: North Carolina
 #16 Mount St. Mary's vs #16 American: American
-#11 Xavier vs #11 Texas: Xavier
+#11 Xavier vs #11 Texas: Texas
 
 First Round:
 #1 Duke vs #16 Mount St. Mary's/American: Duke
@@ -45,10 +45,10 @@ Second Round:
 #7 Saint Mary's vs #2 Alabama: Alabama
 #1 Houston vs #8 Gonzaga: Houston
 #5 Clemson vs #4 Purdue: Purdue
-#6 Illinois vs #3 Kentucky: Illinois
+#6 Illinois vs #3 Kentucky: Kentucky
 #7 UCLA vs #2 Tennessee: Tennessee
 #1 Auburn vs #8 Louisville: Auburn
-#5 Michigan vs #4 Texas A&M: Texas A&M
+#5 Michigan vs #4 Texas A&M: Michigan
 #11 North Carolina/San Diego State vs #3 Iowa State: North Carolina/San Diego State
 #7 Marquette vs #2 Michigan State: Michigan State
 #1 Florida vs #8 UConn: Florida
@@ -60,8 +60,8 @@ Sweet 16:
 #1 Duke vs #4 Arizona: Duke
 #3 Wisconsin vs #2 Alabama: Alabama
 #1 Houston vs #4 Purdue: Houston
-#6 Illinois vs #2 Tennessee: Tennessee
-#1 Auburn vs #4 Texas A&M: Auburn
+#3 Kentucky vs #2 Tennessee: Tennessee
+#1 Auburn vs #5 Michigan: Auburn
 #11 North Carolina/San Diego State vs #2 Michigan State: Michigan State
 #1 Florida vs #4 Maryland: Florida
 #3 Texas Tech vs #2 St. John's: Texas Tech
@@ -74,7 +74,7 @@ Elite 8:
 
 Final Four:
 #1 Auburn vs #1 Duke: Duke
-#1 Houston vs #1 Florida: Houston
+#1 Houston vs #1 Florida: Florida
 
 Championship:
-#1 Duke vs #1 Houston: Duke
+#1 Duke vs #1 Florida: Florida
