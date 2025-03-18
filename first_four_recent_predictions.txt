@@ -1,0 +1,80 @@
+================================================================================
+                    MARCH MADNESS FIRST FOUR PREDICTIONS
+                      (Using Recent Data: 2023-2025)
+================================================================================
+
+SOUTH REGION - #11 SEED PLAY-IN GAMES:
+--------------------------------------------------------------------------------
+Matchup: San Diego State vs North Carolina
+Predicted Winner: NORTH CAROLINA with 72.6% confidence
+Confidence: HIGH - Clear statistical advantage
+
+Recent Trends:
+• San Diego State: Notable decline
+• North Carolina: Slight improvement
+
+Statistical Analysis (Recent Data):
+• North Carolina has better Adjusted Efficiency Margin than San Diego State by 3.28 points
+• North Carolina has better Offensive Efficiency than San Diego State by 9.05 points
+• North Carolina has better Defensive Efficiency than San Diego State by 5.77 points
+• North Carolina has better Pace of Play than San Diego State by 4.60 points
+
+First Round Impact:
+
+----------------------------------------
+Matchup: Texas vs Xavier
+Predicted Winner: XAVIER with 51.9% confidence
+Confidence: TOSS-UP - Teams are very evenly matched
+
+Recent Trends:
+• Texas: Notable decline
+• Xavier: Notable decline
+
+Statistical Analysis (Recent Data):
+• Texas has better Offensive Efficiency than Xavier by 1.21 points
+• Texas has better Defensive Efficiency than Xavier by 1.26 points
+• Xavier has better Pace of Play than Texas by 1.02 points
+
+First Round Impact:
+
+SOUTH REGION - #16 SEED PLAY-IN GAMES:
+--------------------------------------------------------------------------------
+Matchup: Alabama State vs Saint Francis
+Predicted Winner: ALABAMA STATE with 63.7% confidence
+Confidence: MEDIUM - Moderate advantage detected
+
+Recent Trends:
+• Alabama State: Strong upward trend
+• Saint Francis: Insufficient data for trend analysis
+
+Statistical Analysis (Recent Data):
+• Alabama State has better Adjusted Efficiency Margin than Saint Francis by 1.97 points
+• Alabama State has better Offensive Efficiency than Saint Francis by 2.25 points
+• Alabama State has better Pace of Play than Saint Francis by 1.45 points
+
+First Round Impact:
+
+----------------------------------------
+Matchup: American vs Mount St. Mary's
+Predicted Winner: AMERICAN with 69.1% confidence
+Confidence: MEDIUM - Moderate advantage detected
+
+Recent Trends:
+• American: Strong upward trend
+• Mount St. Mary's: Strong upward trend
+
+Statistical Analysis (Recent Data):
+• American has better Adjusted Efficiency Margin than Mount St. Mary's by 0.69 points
+• American has better Offensive Efficiency than Mount St. Mary's by 1.91 points
+• American has better Defensive Efficiency than Mount St. Mary's by 1.22 points
+• Mount St. Mary's has better Pace of Play than American by 3.82 points
+
+First Round Impact:
+
+================================================================================
+MODEL INFORMATION:
+• Random Forest model trained on 2023-2025 KenPom metrics
+• Prediction weighs recent seasons more heavily (2025 > 2024 > 2023)
+• Analysis includes team performance trends across recent seasons
+• Top predictive features: Efficiency Margin, Team Rankings, Offensive/Defensive Efficiency
+================================================================================

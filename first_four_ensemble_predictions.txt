@@ -1,0 +1,111 @@
+==========================================================================================
+                         MARCH MADNESS FIRST FOUR ENSEMBLE PREDICTIONS
+                              (Weighted Model Ensemble)
+==========================================================================================
+
+EAST REGION - #16 SEED PLAY-IN GAMES:
+------------------------------------------------------------------------------------------
+Matchup: American vs Mount St. Mary's
+Predicted Winner: AMERICAN with 68.0% confidence (100% model consensus)
+Confidence: MEDIUM - Moderate advantage detected
+
+Individual Model Predictions:
+• Comprehensive: American (68.0%) ✓
+• Current_Only: American (77.3%) ✓
+• Extended: American (78.5%) ✓
+• Recent: American (58.2%) ✓
+
+Recent Trends:
+• American: Strong upward trend
+• Mount St. Mary's: Strong upward trend
+
+Statistical Analysis:
+• American has better Adjusted Efficiency Margin than Mount St. Mary's by 0.69 points
+• American has better Offensive Efficiency than Mount St. Mary's by 1.91 points
+• American has better Defensive Efficiency than Mount St. Mary's by 1.22 points
+• Mount St. Mary's has better Pace of Play than American by 3.82 points
+
+First Round Impact:
+
+MIDWEST REGION - #11 SEED PLAY-IN GAMES:
+------------------------------------------------------------------------------------------
+Matchup: Texas vs Xavier
+Predicted Winner: TEXAS with 59.8% confidence (75% model consensus)
+Confidence: LOW - Slight edge detected
+
+Individual Model Predictions:
+• Comprehensive: Texas (63.8%) ✓
+• Current_Only: Texas (53.3%) ✓
+• Extended: Xavier (50.3%) ✗
+• Recent: Texas (67.1%) ✓
+
+Recent Trends:
+• Texas: Notable decline
+• Xavier: Notable decline
+
+Statistical Analysis:
+• Texas has better Offensive Efficiency than Xavier by 1.21 points
+• Texas has better Defensive Efficiency than Xavier by 1.26 points
+• Xavier has better Pace of Play than Texas by 1.02 points
+
+First Round Impact:
+
+SOUTH REGION - #11 SEED PLAY-IN GAMES:
+------------------------------------------------------------------------------------------
+Matchup: San Diego State vs North Carolina
+Predicted Winner: NORTH CAROLINA with 84.8% confidence (100% model consensus)
+Confidence: HIGH - Clear statistical advantage
+
+Individual Model Predictions:
+• Comprehensive: North Carolina (87.4%) ✓
+• Current_Only: North Carolina (81.6%) ✓
+• Extended: North Carolina (82.1%) ✓
+• Recent: North Carolina (87.3%) ✓
+
+Recent Trends:
+• San Diego State: Notable decline
+• North Carolina: Slight improvement
+
+Statistical Analysis:
+• North Carolina has better Adjusted Efficiency Margin than San Diego State by 3.28 points
+• North Carolina has better Offensive Efficiency than San Diego State by 9.05 points
+• North Carolina has better Defensive Efficiency than San Diego State by 5.77 points
+• North Carolina has better Pace of Play than San Diego State by 4.60 points
+
+First Round Impact:
+
+SOUTH REGION - #16 SEED PLAY-IN GAMES:
+------------------------------------------------------------------------------------------
+Matchup: Alabama State vs Saint Francis
+Predicted Winner: ALABAMA STATE with 72.8% confidence (100% model consensus)
+Confidence: HIGH - Clear statistical advantage
+
+Individual Model Predictions:
+• Comprehensive: Alabama State (70.8%) ✓
+• Current_Only: Alabama State (100.0%) ✓
+• Extended: Alabama State (66.9%) ✓
+• Recent: Alabama State (60.7%) ✓
+
+Recent Trends:
+• Alabama State: Relatively stable
+• Saint Francis: Strong upward trend
+
+Statistical Analysis:
+• Alabama State has better Adjusted Efficiency Margin than Saint Francis by 3.52 points
+• Alabama State has better Offensive Efficiency than Saint Francis by 1.73 points
+• Saint Francis has better Defensive Efficiency than Alabama State by 1.79 points
+• Alabama State has better Pace of Play than Saint Francis by 2.41 points
+
+First Round Impact:
+
+==========================================================================================
+ENSEMBLE MODEL INFORMATION:
+• Weighted ensemble of four timeframe-based models:
+  - Current (2025): 25% weight - Most recent team performance
+  - Recent (2023-2025): 45% weight - Recent trends with performance trajectory analysis
+  - Extended (2018-2025): 20% weight - Medium-term historical performance
+  - Comprehensive (2003-2025): 10% weight - Long-term historical patterns
+• Each model contributes a weighted vote proportional to its confidence
+• Model consensus indicates agreement across the four different timeframe models
+• Top predictive features: Efficiency Margin, Team Rankings, Offensive/Defensive Efficiency
+==========================================================================================

@@ -1,0 +1,29 @@
+================================================================================
+                    MARCH MADNESS FIRST FOUR PREDICTIONS
+               (Using Extended Historical Data 2018-2025)
+================================================================================
+
+SOUTH REGION - #11 SEED PLAY-IN GAME:
+  Matchup: First Four: San Diego State vs North Carolina
+  Predicted Winner: NORTH CAROLINA with 99.6% confidence
+  HIGH CONFIDENCE: Strong statistical advantage detected
+  Historical Context: #11 seeds occasionally make surprise Sweet 16 runs
+  Matchup: First Four: Texas vs Xavier
+  Predicted Winner: XAVIER with 65.5% confidence
+  MEDIUM CONFIDENCE: Clear but not overwhelming advantage
+  Historical Context: #11 seeds occasionally make surprise Sweet 16 runs
+
+SOUTH REGION - #16 SEED PLAY-IN GAME:
+  Matchup: First Four: Alabama State vs Saint Francis
+  Predicted Winner: FIRST FOUR: ALABAMA STATE with 100.0% confidence
+  HIGH CONFIDENCE: Strong statistical advantage detected
+  Historical Context: #16 seeds face extremely difficult paths in the tournament
+  Matchup: First Four: American vs Mount St. Mary's
+  Predicted Winner: FIRST FOUR: AMERICAN with 66.2% confidence
+  MEDIUM CONFIDENCE: Clear but not overwhelming advantage
+  Historical Context: #16 seeds face extremely difficult paths in the tournament
+
+================================================================================
+Prediction generated using Random Forest model trained on 8 years of KenPom metrics (2018-2025)
+Top predictive features: Adjusted Efficiency Margin, Team Rankings, Offensive/Defensive Efficiency
+================================================================================

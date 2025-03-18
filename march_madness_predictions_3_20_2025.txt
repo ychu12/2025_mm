@@ -1,0 +1,238 @@
+================================================================================
+               MARCH MADNESS PREDICTIONS FOR MARCH 20, 2025
+================================================================================
+
+EAST REGION:
+--------------------------------------------------------------------------------
+Matchup: #2 Alabama vs #15 Robert Morris
+Predicted Winner: ALABAMA with 100.0% confidence
+Model Agreement: Models agree
+Confidence: VERY HIGH - Strong statistical advantage detected
+
+Recent Trends:
+• Alabama: Strong upward trend
+• Robert Morris: Strong upward trend
+
+Statistical Analysis (Current Season):
+• Alabama has better Adjusted Efficiency Margin than Robert Morris by 27.84 points
+• Alabama has better Offensive Efficiency than Robert Morris by 19.54 points
+• Robert Morris has better Defensive Efficiency than Alabama by 8.30 points
+• Alabama has better Pace of Play than Robert Morris by 7.60 points
+
+----------------------------------------
+
+Matchup: #3 Wisconsin vs #14 Montana
+Predicted Winner: WISCONSIN with 100.0% confidence
+Model Agreement: Models agree
+Confidence: VERY HIGH - Strong statistical advantage detected
+
+Recent Trends:
+• Wisconsin: Strong upward trend
+• Montana: Strong upward trend
+
+Statistical Analysis (Current Season):
+• Wisconsin has better Adjusted Efficiency Margin than Montana by 25.59 points
+• Wisconsin has better Offensive Efficiency than Montana by 11.24 points
+• Montana has better Defensive Efficiency than Wisconsin by 14.35 points
+• Wisconsin has better Pace of Play than Montana by 1.16 points
+
+----------------------------------------
+
+Matchup: #4 Arizona vs #13 Akron
+Predicted Winner: ARIZONA with 99.8% confidence
+Model Agreement: Models agree
+Confidence: VERY HIGH - Strong statistical advantage detected
+
+Recent Trends:
+• Arizona: Relatively stable
+• Akron: Strong upward trend
+
+Statistical Analysis (Current Season):
+• Arizona has better Adjusted Efficiency Margin than Akron by 19.15 points
+• Arizona has better Offensive Efficiency than Akron by 8.85 points
+• Akron has better Defensive Efficiency than Arizona by 10.29 points
+• Akron has better Pace of Play than Arizona by 2.26 points
+
+----------------------------------------
+
+Matchup: #5 Oregon vs #12 Liberty
+Predicted Winner: OREGON with 99.1% confidence
+Model Agreement: Models agree
+Confidence: VERY HIGH - Strong statistical advantage detected
+
+Recent Trends:
+• Oregon: Strong upward trend
+• Liberty: Strong upward trend
+
+Statistical Analysis (Current Season):
+• Oregon has better Adjusted Efficiency Margin than Liberty by 6.61 points
+• Oregon has better Offensive Efficiency than Liberty by 4.18 points
+• Liberty has better Defensive Efficiency than Oregon by 2.43 points
+• Oregon has better Pace of Play than Liberty by 2.17 points
+
+----------------------------------------
+
+Matchup: #6 BYU vs #11 VCU
+Predicted Winner: BYU with 79.3% confidence
+Model Agreement: Models agree
+Confidence: HIGH - Clear statistical advantage
+
+Recent Trends:
+• BYU: Strong upward trend
+• VCU: Strong upward trend
+
+Statistical Analysis (Current Season):
+• BYU has better Adjusted Efficiency Margin than VCU by 1.79 points
+• BYU has better Offensive Efficiency than VCU by 6.70 points
+• BYU has better Defensive Efficiency than VCU by 4.91 points
+• BYU has better Pace of Play than VCU by 1.41 points
+
+----------------------------------------
+
+Matchup: #7 Saint Mary's vs #10 Vanderbilt
+Predicted Winner: VANDERBILT with 100.0% confidence
+Model Agreement: Models agree
+Confidence: VERY HIGH - Strong statistical advantage detected
+
+Recent Trends:
+• Saint Mary's: Relatively stable
+• Vanderbilt: Strong upward trend
+
+Statistical Analysis (Current Season):
+• Vanderbilt has better Adjusted Efficiency Margin than Saint Mary's by 22.83 points
+• Vanderbilt has better Offensive Efficiency than Saint Mary's by 17.79 points
+• Saint Mary's has better Defensive Efficiency than Vanderbilt by 5.04 points
+• Vanderbilt has better Pace of Play than Saint Mary's by 2.74 points
+
+----------------------------------------
+
+Matchup: #8 Mississippi State vs #9 Baylor
+Predicted Winner: MISSISSIPPI STATE with 77.6% confidence
+Model Agreement: Models agree
+Confidence: HIGH - Clear statistical advantage
+
+Recent Trends:
+• Mississippi State: Strong upward trend
+• Baylor: Notable decline
+
+Statistical Analysis (Current Season):
+• Mississippi State has better Adjusted Efficiency Margin than Baylor by 0.94 points
+• Baylor has better Offensive Efficiency than Mississippi State by 2.97 points
+• Baylor has better Defensive Efficiency than Mississippi State by 3.91 points
+• Mississippi State has better Pace of Play than Baylor by 3.91 points
+
+----------------------------------------
+
+
+SOUTH REGION:
+--------------------------------------------------------------------------------
+Matchup: #2 Michigan State vs #15 Wofford
+Predicted Winner: MICHIGAN STATE with 99.5% confidence
+Model Agreement: Models agree
+Confidence: VERY HIGH - Strong statistical advantage detected
+
+Recent Trends:
+• Michigan State: Slight improvement
+• Wofford: Slight decline
+
+Statistical Analysis (Current Season):
+• Michigan State has better Adjusted Efficiency Margin than Wofford by 18.12 points
+• Michigan State has better Offensive Efficiency than Wofford by 2.36 points
+• Wofford has better Defensive Efficiency than Michigan State by 15.76 points
+• Michigan State has better Pace of Play than Wofford by 5.99 points
+
+----------------------------------------
+
+Matchup: #3 Iowa State vs #14 Troy
+Predicted Winner: IOWA STATE with 99.4% confidence
+Model Agreement: Models agree
+Confidence: VERY HIGH - Strong statistical advantage detected
+
+Recent Trends:
+• Iowa State: Notable decline
+• Troy: Strong upward trend
+
+Statistical Analysis (Current Season):
+• Iowa State has better Adjusted Efficiency Margin than Troy by 5.94 points
+• Iowa State has better Offensive Efficiency than Troy by 11.92 points
+• Iowa State has better Defensive Efficiency than Troy by 5.98 points
+• Iowa State has better Pace of Play than Troy by 4.58 points
+
+----------------------------------------
+
+Matchup: #4 Texas A&M vs #13 Yale
+Predicted Winner: TEXAS A&M with 99.6% confidence
+Model Agreement: Models agree
+Confidence: VERY HIGH - Strong statistical advantage detected
+
+Recent Trends:
+• Texas A&M: Strong upward trend
+• Yale: Strong upward trend
+
+Statistical Analysis (Current Season):
+• Texas A&M has better Adjusted Efficiency Margin than Yale by 13.04 points
+• Texas A&M has better Offensive Efficiency than Yale by 1.12 points
+• Yale has better Defensive Efficiency than Texas A&M by 11.92 points
+• Yale has better Pace of Play than Texas A&M by 1.29 points
+
+----------------------------------------
+
+Matchup: #5 Michigan vs #12 UC San Diego
+Predicted Winner: MICHIGAN with 80.1% confidence
+Model Agreement: Models agree
+Confidence: VERY HIGH - Strong statistical advantage detected
+
+Recent Trends:
+• Michigan: Slight improvement
+• UC San Diego: Strong upward trend
+
+Statistical Analysis (Current Season):
+• Michigan has better Adjusted Efficiency Margin than UC San Diego by 3.50 points
+• Michigan has better Offensive Efficiency than UC San Diego by 0.75 points
+• UC San Diego has better Defensive Efficiency than Michigan by 2.75 points
+• Michigan has better Pace of Play than UC San Diego by 3.68 points
+
+----------------------------------------
+
+Matchup: #7 Marquette vs #10 New Mexico
+Predicted Winner: MARQUETTE with 72.4% confidence
+Model Agreement: Models agree
+Confidence: HIGH - Clear statistical advantage
+
+Recent Trends:
+• Marquette: Strong upward trend
+• New Mexico: Strong upward trend
+
+Statistical Analysis (Current Season):
+• Marquette has better Adjusted Efficiency Margin than New Mexico by 4.26 points
+• Marquette has better Offensive Efficiency than New Mexico by 5.18 points
+• Marquette has better Defensive Efficiency than New Mexico by 0.92 points
+• New Mexico has better Pace of Play than Marquette by 4.78 points
+
+----------------------------------------
+
+Matchup: #8 Louisville vs #9 Creighton
+Predicted Winner: LOUISVILLE with 90.1% confidence
+Model Agreement: Models agree
+Confidence: VERY HIGH - Strong statistical advantage detected
+
+Recent Trends:
+• Louisville: Strong upward trend
+• Creighton: Strong upward trend
+
+Statistical Analysis (Current Season):
+• Louisville has better Adjusted Efficiency Margin than Creighton by 3.94 points
+• Louisville has better Offensive Efficiency than Creighton by 1.19 points
+• Creighton has better Defensive Efficiency than Louisville by 2.74 points
+• Louisville has better Pace of Play than Creighton by 1.39 points
+
+----------------------------------------
+
+================================================================================
+MODEL INFORMATION:
+• Predictions use both current season (2025) and historical (2022-2025) data
+• Current season model weighted more heavily (60% vs 40%)
+• Historical model includes team performance trends across seasons
+• Random Forest classifier with top features: Efficiency Margin, Team Rankings, Offensive/Defensive Efficiency
+• For teams with conflicting model predictions, higher confidence model is preferred
+================================================================================

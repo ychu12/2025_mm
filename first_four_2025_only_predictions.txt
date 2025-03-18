@@ -1,0 +1,57 @@
+================================================================================
+                    MARCH MADNESS FIRST FOUR PREDICTIONS
+                         (Using Only 2025 Data)
+================================================================================
+
+SOUTH REGION - #11 SEED PLAY-IN GAMES:
+--------------------------------------------------------------------------------
+Matchup: San Diego State vs North Carolina
+Predicted Winner: NORTH CAROLINA with 88.6% confidence
+Confidence: VERY HIGH - Strong statistical advantage detected
+
+Statistical Analysis (2025 Data Only):
+• North Carolina has better Adjusted Efficiency Margin than San Diego State by 3.28 points
+• North Carolina has better Offensive Efficiency than San Diego State by 9.05 points
+• North Carolina has better Defensive Efficiency than San Diego State by 5.77 points
+• North Carolina has better Pace of Play than San Diego State by 4.60 points
+
+----------------------------------------
+Matchup: Texas vs Xavier
+Predicted Winner: TEXAS with 79.0% confidence
+Confidence: HIGH - Clear statistical advantage
+
+Statistical Analysis (2025 Data Only):
+• Texas has better Offensive Efficiency than Xavier by 1.21 points
+• Texas has better Defensive Efficiency than Xavier by 1.26 points
+• Xavier has better Pace of Play than Texas by 1.02 points
+
+SOUTH REGION - #16 SEED PLAY-IN GAMES:
+--------------------------------------------------------------------------------
+Matchup: Alabama State vs Saint Francis
+Predicted Winner: ALABAMA STATE with 98.1% confidence
+Confidence: VERY HIGH - Strong statistical advantage detected
+
+Statistical Analysis (2025 Data Only):
+• Alabama State has better Adjusted Efficiency Margin than Saint Francis by 3.52 points
+• Alabama State has better Offensive Efficiency than Saint Francis by 1.73 points
+• Saint Francis has better Defensive Efficiency than Alabama State by 1.79 points
+• Alabama State has better Pace of Play than Saint Francis by 2.41 points
+
+----------------------------------------
+Matchup: American vs Mount St. Mary's
+Predicted Winner: AMERICAN with 76.2% confidence
+Confidence: HIGH - Clear statistical advantage
+
+Statistical Analysis (2025 Data Only):
+• American has better Adjusted Efficiency Margin than Mount St. Mary's by 0.69 points
+• American has better Offensive Efficiency than Mount St. Mary's by 1.91 points
+• American has better Defensive Efficiency than Mount St. Mary's by 1.22 points
+• Mount St. Mary's has better Pace of Play than American by 3.82 points
+
+================================================================================
+MODEL INFORMATION:
+• Random Forest model trained exclusively on 2025 KenPom metrics
+• Prediction based solely on current season statistics
+• No historical data or previous tournament performance considered
+• Top predictive features: Efficiency Margin, Team Rankings, Offensive/Defensive Efficiency
+================================================================================
